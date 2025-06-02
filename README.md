@@ -2,9 +2,6 @@
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Paulina Tornero</h1>
 <h3 align="center"> Data Analyst Estudent | Data Analysis Enthusiast</h3>
 <p align="center">
-<a href="www.linkedin.com/in/paulina-tornero-322b3b33b" target="blank"><img align="center" src="www.linkedin.com/in/paulina-tornero-322b3b33b" alt="aksia" height="30" width="40" /></a>
- <a href = "paulina.tornero20@gmail.com"><img align="center" src="paulina.tornero20@gmail.com" height="30" width="40" /></a>
-</p>
 </p>
 # 👋 Hi there, I'm Paulina Tornero
 
@@ -26,6 +23,7 @@ I'm a passionate and self-driven **Data Enthusiast**, currently studying the **G
 ### 🛠️ Tools & Skills
 - Spreadsheets (Excel, Google Sheets)
 - SQL (BigQuery, MySQL)
+
 - Python (Pandas, Matplotlib, Seaborn)
 - Power BI
 - Data Cleaning & Wrangling
@@ -35,10 +33,12 @@ I'm a passionate and self-driven **Data Enthusiast**, currently studying the **G
 ---
 
 ### 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/)  
-- [Portfolio](https://your-portfolio-link.com) *(Replace with your actual link)*
+- [LinkedIn](www.linkedin.com/in/paulina-tornero-322b3b33b)  
+- [Portfolio] [Paulina Tornero CV (1).pdf](https://github.com/user-attachments/files/20544095/Paulina.Tornero.CV.1.pdf)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
 
 
